@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.9.13 on win32)" generated="20230530 15:27:16.097" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\Ana\.vscode\extensions\robocorp.robotframework-lsp-1.10.1\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Import Library" library="BuiltIn">
+<arg>RPA.Browser.Selenium</arg>
+<doc>Imports a library with the given name and optional arguments.</doc>
+<status status="PASS" starttime="20230530 15:27:35.263" endtime="20230530 15:27:39.836"/>
+</kw>
+<status status="PASS" starttime="20230530 15:27:16.152" endtime="20230530 15:39:53.796"/>
+</kw>
+<status status="PASS" starttime="20230530 15:27:16.152" endtime="20230530 15:39:53.799"/>
+</test>
+<status status="PASS" starttime="20230530 15:27:16.099" endtime="20230530 15:39:53.799"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
